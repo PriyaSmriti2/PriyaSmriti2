@@ -1,3 +1,4 @@
+![logo](https://github.com/PriyaSmriti2/PriyaSmriti2/blob/main/Dark%20Blue%20%26%20Yellow%20Modern%20Tutorial%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Priya Smriti</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
